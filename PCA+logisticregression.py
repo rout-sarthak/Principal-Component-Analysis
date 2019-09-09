@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Sep  9 11:54:49 2019
-
-@author: sarth
+@author: sarthak
 """
 
 #Pricipal Component Analysis(PCA) with Logistic Regression
